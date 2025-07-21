@@ -1,12 +1,18 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 3D Character Animation
 
-Currently, two official plugins are available:
+This project showcases a 3D animated character designed and animated to demonstrate smooth, lifelike motion. The animation focuses on body mechanics, expressive movement, and visual presentation.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎯 Features
+- Full character rigging and keyframe animation
+- Smooth transition between poses and movements
+- Rendered in real-time for demo or web preview
+- Created using [Blender/Three.js/etc.]
 
-## Expanding the ESLint configuration
+## 🛠️ Tools & Technologies
+- Blender
+- CSS3 + HTML5 (if web-based)
+- JavaScript / WebGL (if applicable)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
